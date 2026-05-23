@@ -92,7 +92,7 @@ yt-dlp: https://www.youtube.com/watch?v=6qFeURAfItU
 ```
 downloads/
 ├── video-small.mp4
-└── video-large/
+└── video-large/s
     ├── video-large.zip
     ├── video-large.z01
     └── video-large.z02
